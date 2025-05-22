@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "time_2022-Q1",
+    "text": "Sales Summary for 2022-Q1\nTotal Records: 90\nTotal Sales: $48268.00\nAverage Sale: $536.31\nAverage Customer Satisfaction: 3.03\nDate Range: 2022-01-01 to 2022-03-31\n\nSales by Product:\n- Widget A: $11439.00 total, 19 sales, $602.05 average\n- Widget B: $9290.00 total, 20 sales, $464.50 average\n- Widget C: $11913.00 total, 24 sales, $496.38 average\n- Widget D: $15626.00 total, 27 sales, $578.74 average\n\nSales by Region:\n- East: $7694.00 total, 13 sales, $591.85 average\n- North: $11949.00 total, 24 sales, $497.88 average\n- South: $16582.00 total, 30 sales, $552.73 average\n- West: $12043.00 total, 23 sales, $523.61 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2022-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2022-Q1",
+        "total_records": 90,
+        "total_sales": 48268.0,
+        "average_sale": 536.3111111111111,
+        "average_satisfaction": 3.03252749245549,
+        "date_range": {
+          "start": "2022-01-01",
+          "end": "2022-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 11439,
+            "count": 19,
+            "mean": 602.0526315789474
+          },
+          "Widget B": {
+            "sum": 9290,
+            "count": 20,
+            "mean": 464.5
+          },
+          "Widget C": {
+            "sum": 11913,
+            "count": 24,
+            "mean": 496.375
+          },
+          "Widget D": {
+            "sum": 15626,
+            "count": 27,
+            "mean": 578.7407407407408
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 7694,
+            "count": 13,
+            "mean": 591.8461538461538
+          },
+          "North": {
+            "sum": 11949,
+            "count": 24,
+            "mean": 497.875
+          },
+          "South": {
+            "sum": 16582,
+            "count": 30,
+            "mean": 552.7333333333333
+          },
+          "West": {
+            "sum": 12043,
+            "count": 23,
+            "mean": 523.6086956521739
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 19841,
+            "count": 40,
+            "mean": 496.025
+          },
+          "Male": {
+            "sum": 28427,
+            "count": 50,
+            "mean": 568.54
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2022_Q1.png"
+    }
+  },
+  {
+    "id": "time_2022-Q2",
+    "text": "Sales Summary for 2022-Q2\nTotal Records: 91\nTotal Sales: $45809.00\nAverage Sale: $503.40\nAverage Customer Satisfaction: 2.96\nDate Range: 2022-04-01 to 2022-06-30\n\nSales by Product:\n- Widget A: $14158.00 total, 23 sales, $615.57 average\n- Widget B: $9793.00 total, 21 sales, $466.33 average\n- Widget C: $10454.00 total, 21 sales, $497.81 average\n- Widget D: $11404.00 total, 26 sales, $438.62 average\n\nSales by Region:\n- East: $16069.00 total, 29 sales, $554.10 average\n- North: $8753.00 total, 17 sales, $514.88 average\n- South: $12131.00 total, 24 sales, $505.46 average\n- West: $8856.00 total, 21 sales, $421.71 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2022-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2022-Q2",
+        "total_records": 91,
+        "total_sales": 45809.0,
+        "average_sale": 503.3956043956044,
+        "average_satisfaction": 2.9621079874042846,
+        "date_range": {
+          "start": "2022-04-01",
+          "end": "2022-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14158,
+            "count": 23,
+            "mean": 615.5652173913044
+          },
+          "Widget B": {
+            "sum": 9793,
+            "count": 21,
+            "mean": 466.3333333333333
+          },
+          "Widget C": {
+            "sum": 10454,
+            "count": 21,
+            "mean": 497.8095238095238
+          },
+          "Widget D": {
+            "sum": 11404,
+            "count": 26,
+            "mean": 438.61538461538464
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 16069,
+            "count": 29,
+            "mean": 554.1034482758621
+          },
+          "North": {
+            "sum": 8753,
+            "count": 17,
+            "mean": 514.8823529411765
+          },
+          "South": {
+            "sum": 12131,
+            "count": 24,
+            "mean": 505.4583333333333
+          },
+          "West": {
+            "sum": 8856,
+            "count": 21,
+            "mean": 421.7142857142857
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24349,
+            "count": 46,
+            "mean": 529.3260869565217
+          },
+          "Male": {
+            "sum": 21460,
+            "count": 45,
+            "mean": 476.8888888888889
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2022_Q2.png"
+    }
+  },
+  {
+    "id": "time_2022-Q3",
+    "text": "Sales Summary for 2022-Q3\nTotal Records: 92\nTotal Sales: $54719.00\nAverage Sale: $594.77\nAverage Customer Satisfaction: 3.11\nDate Range: 2022-07-01 to 2022-09-30\n\nSales by Product:\n- Widget A: $15228.00 total, 23 sales, $662.09 average\n- Widget B: $11001.00 total, 20 sales, $550.05 average\n- Widget C: $17926.00 total, 28 sales, $640.21 average\n- Widget D: $10564.00 total, 21 sales, $503.05 average\n\nSales by Region:\n- East: $9578.00 total, 18 sales, $532.11 average\n- North: $13768.00 total, 23 sales, $598.61 average\n- South: $16625.00 total, 26 sales, $639.42 average\n- West: $14748.00 total, 25 sales, $589.92 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2022-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2022-Q3",
+        "total_records": 92,
+        "total_sales": 54719.0,
+        "average_sale": 594.7717391304348,
+        "average_satisfaction": 3.110487120649822,
+        "date_range": {
+          "start": "2022-07-01",
+          "end": "2022-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 15228,
+            "count": 23,
+            "mean": 662.0869565217391
+          },
+          "Widget B": {
+            "sum": 11001,
+            "count": 20,
+            "mean": 550.05
+          },
+          "Widget C": {
+            "sum": 17926,
+            "count": 28,
+            "mean": 640.2142857142857
+          },
+          "Widget D": {
+            "sum": 10564,
+            "count": 21,
+            "mean": 503.04761904761904
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9578,
+            "count": 18,
+            "mean": 532.1111111111111
+          },
+          "North": {
+            "sum": 13768,
+            "count": 23,
+            "mean": 598.6086956521739
+          },
+          "South": {
+            "sum": 16625,
+            "count": 26,
+            "mean": 639.4230769230769
+          },
+          "West": {
+            "sum": 14748,
+            "count": 25,
+            "mean": 589.92
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 29188,
+            "count": 44,
+            "mean": 663.3636363636364
+          },
+          "Male": {
+            "sum": 25531,
+            "count": 48,
+            "mean": 531.8958333333334
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2022_Q3.png"
+    }
+  },
+  {
+    "id": "time_2022-Q4",
+    "text": "Sales Summary for 2022-Q4\nTotal Records: 92\nTotal Sales: $51861.00\nAverage Sale: $563.71\nAverage Customer Satisfaction: 2.90\nDate Range: 2022-10-01 to 2022-12-31\n\nSales by Product:\n- Widget A: $12829.00 total, 22 sales, $583.14 average\n- Widget B: $10292.00 total, 19 sales, $541.68 average\n- Widget C: $12556.00 total, 23 sales, $545.91 average\n- Widget D: $16184.00 total, 28 sales, $578.00 average\n\nSales by Region:\n- East: $13037.00 total, 22 sales, $592.59 average\n- North: $13589.00 total, 27 sales, $503.30 average\n- South: $11801.00 total, 20 sales, $590.05 average\n- West: $13434.00 total, 23 sales, $584.09 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2022-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2022-Q4",
+        "total_records": 92,
+        "total_sales": 51861.0,
+        "average_sale": 563.7065217391304,
+        "average_satisfaction": 2.8978970878730856,
+        "date_range": {
+          "start": "2022-10-01",
+          "end": "2022-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 12829,
+            "count": 22,
+            "mean": 583.1363636363636
+          },
+          "Widget B": {
+            "sum": 10292,
+            "count": 19,
+            "mean": 541.6842105263158
+          },
+          "Widget C": {
+            "sum": 12556,
+            "count": 23,
+            "mean": 545.9130434782609
+          },
+          "Widget D": {
+            "sum": 16184,
+            "count": 28,
+            "mean": 578.0
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 13037,
+            "count": 22,
+            "mean": 592.5909090909091
+          },
+          "North": {
+            "sum": 13589,
+            "count": 27,
+            "mean": 503.2962962962963
+          },
+          "South": {
+            "sum": 11801,
+            "count": 20,
+            "mean": 590.05
+          },
+          "West": {
+            "sum": 13434,
+            "count": 23,
+            "mean": 584.0869565217391
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24185,
+            "count": 46,
+            "mean": 525.7608695652174
+          },
+          "Male": {
+            "sum": 27676,
+            "count": 46,
+            "mean": 601.6521739130435
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2022_Q4.png"
+    }
+  },
+  {
+    "id": "time_2023-Q1",
+    "text": "Sales Summary for 2023-Q1\nTotal Records: 90\nTotal Sales: $46086.00\nAverage Sale: $512.07\nAverage Customer Satisfaction: 3.04\nDate Range: 2023-01-01 to 2023-03-31\n\nSales by Product:\n- Widget A: $9959.00 total, 20 sales, $497.95 average\n- Widget B: $11141.00 total, 21 sales, $530.52 average\n- Widget C: $8335.00 total, 17 sales, $490.29 average\n- Widget D: $16651.00 total, 32 sales, $520.34 average\n\nSales by Region:\n- East: $9439.00 total, 17 sales, $555.24 average\n- North: $12925.00 total, 24 sales, $538.54 average\n- South: $12742.00 total, 28 sales, $455.07 average\n- West: $10980.00 total, 21 sales, $522.86 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2023-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2023-Q1",
+        "total_records": 90,
+        "total_sales": 46086.0,
+        "average_sale": 512.0666666666667,
+        "average_satisfaction": 3.039092096917106,
+        "date_range": {
+          "start": "2023-01-01",
+          "end": "2023-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 9959,
+            "count": 20,
+            "mean": 497.95
+          },
+          "Widget B": {
+            "sum": 11141,
+            "count": 21,
+            "mean": 530.5238095238095
+          },
+          "Widget C": {
+            "sum": 8335,
+            "count": 17,
+            "mean": 490.29411764705884
+          },
+          "Widget D": {
+            "sum": 16651,
+            "count": 32,
+            "mean": 520.34375
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9439,
+            "count": 17,
+            "mean": 555.2352941176471
+          },
+          "North": {
+            "sum": 12925,
+            "count": 24,
+            "mean": 538.5416666666666
+          },
+          "South": {
+            "sum": 12742,
+            "count": 28,
+            "mean": 455.07142857142856
+          },
+          "West": {
+            "sum": 10980,
+            "count": 21,
+            "mean": 522.8571428571429
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 21665,
+            "count": 45,
+            "mean": 481.44444444444446
+          },
+          "Male": {
+            "sum": 24421,
+            "count": 45,
+            "mean": 542.6888888888889
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2023_Q1.png"
+    }
+  },
+  {
+    "id": "time_2023-Q2",
+    "text": "Sales Summary for 2023-Q2\nTotal Records: 91\nTotal Sales: $52010.00\nAverage Sale: $571.54\nAverage Customer Satisfaction: 3.10\nDate Range: 2023-04-01 to 2023-06-30\n\nSales by Product:\n- Widget A: $14436.00 total, 24 sales, $601.50 average\n- Widget B: $13190.00 total, 22 sales, $599.55 average\n- Widget C: $12899.00 total, 22 sales, $586.32 average\n- Widget D: $11485.00 total, 23 sales, $499.35 average\n\nSales by Region:\n- East: $14735.00 total, 27 sales, $545.74 average\n- North: $14659.00 total, 26 sales, $563.81 average\n- South: $9938.00 total, 19 sales, $523.05 average\n- West: $12678.00 total, 19 sales, $667.26 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2023-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2023-Q2",
+        "total_records": 91,
+        "total_sales": 52010.0,
+        "average_sale": 571.5384615384615,
+        "average_satisfaction": 3.09982377427758,
+        "date_range": {
+          "start": "2023-04-01",
+          "end": "2023-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14436,
+            "count": 24,
+            "mean": 601.5
+          },
+          "Widget B": {
+            "sum": 13190,
+            "count": 22,
+            "mean": 599.5454545454545
+          },
+          "Widget C": {
+            "sum": 12899,
+            "count": 22,
+            "mean": 586.3181818181819
+          },
+          "Widget D": {
+            "sum": 11485,
+            "count": 23,
+            "mean": 499.3478260869565
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 14735,
+            "count": 27,
+            "mean": 545.7407407407408
+          },
+          "North": {
+            "sum": 14659,
+            "count": 26,
+            "mean": 563.8076923076923
+          },
+          "South": {
+            "sum": 9938,
+            "count": 19,
+            "mean": 523.0526315789474
+          },
+          "West": {
+            "sum": 12678,
+            "count": 19,
+            "mean": 667.2631578947369
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 25435,
+            "count": 46,
+            "mean": 552.9347826086956
+          },
+          "Male": {
+            "sum": 26575,
+            "count": 45,
+            "mean": 590.5555555555555
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2023_Q2.png"
+    }
+  },
+  {
+    "id": "time_2023-Q3",
+    "text": "Sales Summary for 2023-Q3\nTotal Records: 92\nTotal Sales: $51459.00\nAverage Sale: $559.34\nAverage Customer Satisfaction: 2.97\nDate Range: 2023-07-01 to 2023-09-30\n\nSales by Product:\n- Widget A: $10616.00 total, 20 sales, $530.80 average\n- Widget B: $14507.00 total, 26 sales, $557.96 average\n- Widget C: $10713.00 total, 21 sales, $510.14 average\n- Widget D: $15623.00 total, 25 sales, $624.92 average\n\nSales by Region:\n- East: $9822.00 total, 19 sales, $516.95 average\n- North: $11483.00 total, 20 sales, $574.15 average\n- South: $14606.00 total, 27 sales, $540.96 average\n- West: $15548.00 total, 26 sales, $598.00 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2023-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2023-Q3",
+        "total_records": 92,
+        "total_sales": 51459.0,
+        "average_sale": 559.3369565217391,
+        "average_satisfaction": 2.9672353520728776,
+        "date_range": {
+          "start": "2023-07-01",
+          "end": "2023-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 10616,
+            "count": 20,
+            "mean": 530.8
+          },
+          "Widget B": {
+            "sum": 14507,
+            "count": 26,
+            "mean": 557.9615384615385
+          },
+          "Widget C": {
+            "sum": 10713,
+            "count": 21,
+            "mean": 510.14285714285717
+          },
+          "Widget D": {
+            "sum": 15623,
+            "count": 25,
+            "mean": 624.92
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9822,
+            "count": 19,
+            "mean": 516.9473684210526
+          },
+          "North": {
+            "sum": 11483,
+            "count": 20,
+            "mean": 574.15
+          },
+          "South": {
+            "sum": 14606,
+            "count": 27,
+            "mean": 540.9629629629629
+          },
+          "West": {
+            "sum": 15548,
+            "count": 26,
+            "mean": 598.0
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 26445,
+            "count": 46,
+            "mean": 574.8913043478261
+          },
+          "Male": {
+            "sum": 25014,
+            "count": 46,
+            "mean": 543.7826086956521
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2023_Q3.png"
+    }
+  },
+  {
+    "id": "time_2023-Q4",
+    "text": "Sales Summary for 2023-Q4\nTotal Records: 92\nTotal Sales: $52704.00\nAverage Sale: $572.87\nAverage Customer Satisfaction: 2.89\nDate Range: 2023-10-01 to 2023-12-31\n\nSales by Product:\n- Widget A: $15632.00 total, 25 sales, $625.28 average\n- Widget B: $12099.00 total, 23 sales, $526.04 average\n- Widget C: $8796.00 total, 15 sales, $586.40 average\n- Widget D: $16177.00 total, 29 sales, $557.83 average\n\nSales by Region:\n- East: $12505.00 total, 22 sales, $568.41 average\n- North: $15084.00 total, 27 sales, $558.67 average\n- South: $13040.00 total, 22 sales, $592.73 average\n- West: $12075.00 total, 21 sales, $575.00 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2023-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2023-Q4",
+        "total_records": 92,
+        "total_sales": 52704.0,
+        "average_sale": 572.8695652173913,
+        "average_satisfaction": 2.889616578456273,
+        "date_range": {
+          "start": "2023-10-01",
+          "end": "2023-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 15632,
+            "count": 25,
+            "mean": 625.28
+          },
+          "Widget B": {
+            "sum": 12099,
+            "count": 23,
+            "mean": 526.0434782608696
+          },
+          "Widget C": {
+            "sum": 8796,
+            "count": 15,
+            "mean": 586.4
+          },
+          "Widget D": {
+            "sum": 16177,
+            "count": 29,
+            "mean": 557.8275862068965
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12505,
+            "count": 22,
+            "mean": 568.4090909090909
+          },
+          "North": {
+            "sum": 15084,
+            "count": 27,
+            "mean": 558.6666666666666
+          },
+          "South": {
+            "sum": 13040,
+            "count": 22,
+            "mean": 592.7272727272727
+          },
+          "West": {
+            "sum": 12075,
+            "count": 21,
+            "mean": 575.0
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 26413,
+            "count": 47,
+            "mean": 561.9787234042553
+          },
+          "Male": {
+            "sum": 26291,
+            "count": 45,
+            "mean": 584.2444444444444
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2023_Q4.png"
+    }
+  },
+  {
+    "id": "time_2024-Q1",
+    "text": "Sales Summary for 2024-Q1\nTotal Records: 91\nTotal Sales: $50623.00\nAverage Sale: $556.30\nAverage Customer Satisfaction: 3.24\nDate Range: 2024-01-01 to 2024-03-31\n\nSales by Product:\n- Widget A: $17547.00 total, 32 sales, $548.34 average\n- Widget B: $11772.00 total, 18 sales, $654.00 average\n- Widget C: $11528.00 total, 20 sales, $576.40 average\n- Widget D: $9776.00 total, 21 sales, $465.52 average\n\nSales by Region:\n- East: $8199.00 total, 16 sales, $512.44 average\n- North: $11291.00 total, 22 sales, $513.23 average\n- South: $14197.00 total, 25 sales, $567.88 average\n- West: $16936.00 total, 28 sales, $604.86 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2024-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2024-Q1",
+        "total_records": 91,
+        "total_sales": 50623.0,
+        "average_sale": 556.2967032967033,
+        "average_satisfaction": 3.2386014969071453,
+        "date_range": {
+          "start": "2024-01-01",
+          "end": "2024-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 17547,
+            "count": 32,
+            "mean": 548.34375
+          },
+          "Widget B": {
+            "sum": 11772,
+            "count": 18,
+            "mean": 654.0
+          },
+          "Widget C": {
+            "sum": 11528,
+            "count": 20,
+            "mean": 576.4
+          },
+          "Widget D": {
+            "sum": 9776,
+            "count": 21,
+            "mean": 465.5238095238095
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 8199,
+            "count": 16,
+            "mean": 512.4375
+          },
+          "North": {
+            "sum": 11291,
+            "count": 22,
+            "mean": 513.2272727272727
+          },
+          "South": {
+            "sum": 14197,
+            "count": 25,
+            "mean": 567.88
+          },
+          "West": {
+            "sum": 16936,
+            "count": 28,
+            "mean": 604.8571428571429
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24557,
+            "count": 44,
+            "mean": 558.1136363636364
+          },
+          "Male": {
+            "sum": 26066,
+            "count": 47,
+            "mean": 554.5957446808511
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2024_Q1.png"
+    }
+  },
+  {
+    "id": "time_2024-Q2",
+    "text": "Sales Summary for 2024-Q2\nTotal Records: 91\nTotal Sales: $49652.00\nAverage Sale: $545.63\nAverage Customer Satisfaction: 3.20\nDate Range: 2024-04-01 to 2024-06-30\n\nSales by Product:\n- Widget A: $13562.00 total, 25 sales, $542.48 average\n- Widget B: $12237.00 total, 22 sales, $556.23 average\n- Widget C: $13604.00 total, 26 sales, $523.23 average\n- Widget D: $10249.00 total, 18 sales, $569.39 average\n\nSales by Region:\n- East: $10151.00 total, 18 sales, $563.94 average\n- North: $11175.00 total, 20 sales, $558.75 average\n- South: $18574.00 total, 31 sales, $599.16 average\n- West: $9752.00 total, 22 sales, $443.27 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2024-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2024-Q2",
+        "total_records": 91,
+        "total_sales": 49652.0,
+        "average_sale": 545.6263736263736,
+        "average_satisfaction": 3.1958313870946564,
+        "date_range": {
+          "start": "2024-04-01",
+          "end": "2024-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 13562,
+            "count": 25,
+            "mean": 542.48
+          },
+          "Widget B": {
+            "sum": 12237,
+            "count": 22,
+            "mean": 556.2272727272727
+          },
+          "Widget C": {
+            "sum": 13604,
+            "count": 26,
+            "mean": 523.2307692307693
+          },
+          "Widget D": {
+            "sum": 10249,
+            "count": 18,
+            "mean": 569.3888888888889
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 10151,
+            "count": 18,
+            "mean": 563.9444444444445
+          },
+          "North": {
+            "sum": 11175,
+            "count": 20,
+            "mean": 558.75
+          },
+          "South": {
+            "sum": 18574,
+            "count": 31,
+            "mean": 599.1612903225806
+          },
+          "West": {
+            "sum": 9752,
+            "count": 22,
+            "mean": 443.27272727272725
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 28314,
+            "count": 48,
+            "mean": 589.875
+          },
+          "Male": {
+            "sum": 21338,
+            "count": 43,
+            "mean": 496.2325581395349
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2024_Q2.png"
+    }
+  },
+  {
+    "id": "time_2024-Q3",
+    "text": "Sales Summary for 2024-Q3\nTotal Records: 92\nTotal Sales: $48010.00\nAverage Sale: $521.85\nAverage Customer Satisfaction: 2.96\nDate Range: 2024-07-01 to 2024-09-30\n\nSales by Product:\n- Widget A: $13949.00 total, 27 sales, $516.63 average\n- Widget B: $10911.00 total, 19 sales, $574.26 average\n- Widget C: $8707.00 total, 16 sales, $544.19 average\n- Widget D: $14443.00 total, 30 sales, $481.43 average\n\nSales by Region:\n- East: $13481.00 total, 28 sales, $481.46 average\n- North: $12085.00 total, 22 sales, $549.32 average\n- South: $12973.00 total, 23 sales, $564.04 average\n- West: $9471.00 total, 19 sales, $498.47 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2024-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2024-Q3",
+        "total_records": 92,
+        "total_sales": 48010.0,
+        "average_sale": 521.8478260869565,
+        "average_satisfaction": 2.9615485587151955,
+        "date_range": {
+          "start": "2024-07-01",
+          "end": "2024-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 13949,
+            "count": 27,
+            "mean": 516.6296296296297
+          },
+          "Widget B": {
+            "sum": 10911,
+            "count": 19,
+            "mean": 574.2631578947369
+          },
+          "Widget C": {
+            "sum": 8707,
+            "count": 16,
+            "mean": 544.1875
+          },
+          "Widget D": {
+            "sum": 14443,
+            "count": 30,
+            "mean": 481.43333333333334
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 13481,
+            "count": 28,
+            "mean": 481.4642857142857
+          },
+          "North": {
+            "sum": 12085,
+            "count": 22,
+            "mean": 549.3181818181819
+          },
+          "South": {
+            "sum": 12973,
+            "count": 23,
+            "mean": 564.0434782608696
+          },
+          "West": {
+            "sum": 9471,
+            "count": 19,
+            "mean": 498.4736842105263
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24409,
+            "count": 47,
+            "mean": 519.3404255319149
+          },
+          "Male": {
+            "sum": 23601,
+            "count": 45,
+            "mean": 524.4666666666667
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2024_Q3.png"
+    }
+  },
+  {
+    "id": "time_2024-Q4",
+    "text": "Sales Summary for 2024-Q4\nTotal Records: 92\nTotal Sales: $47173.00\nAverage Sale: $512.75\nAverage Customer Satisfaction: 3.19\nDate Range: 2024-10-01 to 2024-12-31\n\nSales by Product:\n- Widget A: $19716.00 total, 36 sales, $547.67 average\n- Widget B: $10253.00 total, 22 sales, $466.05 average\n- Widget C: $10311.00 total, 20 sales, $515.55 average\n- Widget D: $6893.00 total, 14 sales, $492.36 average\n\nSales by Region:\n- East: $6788.00 total, 15 sales, $452.53 average\n- North: $16849.00 total, 34 sales, $495.56 average\n- South: $8716.00 total, 16 sales, $544.75 average\n- West: $14820.00 total, 27 sales, $548.89 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2024-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2024-Q4",
+        "total_records": 92,
+        "total_sales": 47173.0,
+        "average_sale": 512.75,
+        "average_satisfaction": 3.186019680729787,
+        "date_range": {
+          "start": "2024-10-01",
+          "end": "2024-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 19716,
+            "count": 36,
+            "mean": 547.6666666666666
+          },
+          "Widget B": {
+            "sum": 10253,
+            "count": 22,
+            "mean": 466.04545454545456
+          },
+          "Widget C": {
+            "sum": 10311,
+            "count": 20,
+            "mean": 515.55
+          },
+          "Widget D": {
+            "sum": 6893,
+            "count": 14,
+            "mean": 492.35714285714283
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 6788,
+            "count": 15,
+            "mean": 452.53333333333336
+          },
+          "North": {
+            "sum": 16849,
+            "count": 34,
+            "mean": 495.55882352941177
+          },
+          "South": {
+            "sum": 8716,
+            "count": 16,
+            "mean": 544.75
+          },
+          "West": {
+            "sum": 14820,
+            "count": 27,
+            "mean": 548.8888888888889
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 20829,
+            "count": 37,
+            "mean": 562.9459459459459
+          },
+          "Male": {
+            "sum": 26344,
+            "count": 55,
+            "mean": 478.9818181818182
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2024_Q4.png"
+    }
+  },
+  {
+    "id": "time_2025-Q1",
+    "text": "Sales Summary for 2025-Q1\nTotal Records: 90\nTotal Sales: $52868.00\nAverage Sale: $587.42\nAverage Customer Satisfaction: 3.06\nDate Range: 2025-01-01 to 2025-03-31\n\nSales by Product:\n- Widget A: $9916.00 total, 17 sales, $583.29 average\n- Widget B: $17354.00 total, 27 sales, $642.74 average\n- Widget C: $14715.00 total, 26 sales, $565.96 average\n- Widget D: $10883.00 total, 20 sales, $544.15 average\n\nSales by Region:\n- East: $12168.00 total, 21 sales, $579.43 average\n- North: $11552.00 total, 18 sales, $641.78 average\n- South: $11294.00 total, 22 sales, $513.36 average\n- West: $17854.00 total, 29 sales, $615.66 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2025-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2025-Q1",
+        "total_records": 90,
+        "total_sales": 52868.0,
+        "average_sale": 587.4222222222222,
+        "average_satisfaction": 3.057491964387369,
+        "date_range": {
+          "start": "2025-01-01",
+          "end": "2025-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 9916,
+            "count": 17,
+            "mean": 583.2941176470588
+          },
+          "Widget B": {
+            "sum": 17354,
+            "count": 27,
+            "mean": 642.7407407407408
+          },
+          "Widget C": {
+            "sum": 14715,
+            "count": 26,
+            "mean": 565.9615384615385
+          },
+          "Widget D": {
+            "sum": 10883,
+            "count": 20,
+            "mean": 544.15
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12168,
+            "count": 21,
+            "mean": 579.4285714285714
+          },
+          "North": {
+            "sum": 11552,
+            "count": 18,
+            "mean": 641.7777777777778
+          },
+          "South": {
+            "sum": 11294,
+            "count": 22,
+            "mean": 513.3636363636364
+          },
+          "West": {
+            "sum": 17854,
+            "count": 29,
+            "mean": 615.6551724137931
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 28686,
+            "count": 48,
+            "mean": 597.625
+          },
+          "Male": {
+            "sum": 24182,
+            "count": 42,
+            "mean": 575.7619047619048
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2025_Q1.png"
+    }
+  },
+  {
+    "id": "time_2025-Q2",
+    "text": "Sales Summary for 2025-Q2\nTotal Records: 91\nTotal Sales: $49916.00\nAverage Sale: $548.53\nAverage Customer Satisfaction: 3.03\nDate Range: 2025-04-01 to 2025-06-30\n\nSales by Product:\n- Widget A: $11196.00 total, 23 sales, $486.78 average\n- Widget B: $14701.00 total, 26 sales, $565.42 average\n- Widget C: $14138.00 total, 26 sales, $543.77 average\n- Widget D: $9881.00 total, 16 sales, $617.56 average\n\nSales by Region:\n- East: $12497.00 total, 23 sales, $543.35 average\n- North: $13434.00 total, 23 sales, $584.09 average\n- South: $10828.00 total, 22 sales, $492.18 average\n- West: $13157.00 total, 23 sales, $572.04 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2025-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2025-Q2",
+        "total_records": 91,
+        "total_sales": 49916.0,
+        "average_sale": 548.5274725274726,
+        "average_satisfaction": 3.0287612353414244,
+        "date_range": {
+          "start": "2025-04-01",
+          "end": "2025-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 11196,
+            "count": 23,
+            "mean": 486.7826086956522
+          },
+          "Widget B": {
+            "sum": 14701,
+            "count": 26,
+            "mean": 565.4230769230769
+          },
+          "Widget C": {
+            "sum": 14138,
+            "count": 26,
+            "mean": 543.7692307692307
+          },
+          "Widget D": {
+            "sum": 9881,
+            "count": 16,
+            "mean": 617.5625
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12497,
+            "count": 23,
+            "mean": 543.3478260869565
+          },
+          "North": {
+            "sum": 13434,
+            "count": 23,
+            "mean": 584.0869565217391
+          },
+          "South": {
+            "sum": 10828,
+            "count": 22,
+            "mean": 492.1818181818182
+          },
+          "West": {
+            "sum": 13157,
+            "count": 23,
+            "mean": 572.0434782608696
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 26483,
+            "count": 46,
+            "mean": 575.7173913043479
+          },
+          "Male": {
+            "sum": 23433,
+            "count": 45,
+            "mean": 520.7333333333333
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2025_Q2.png"
+    }
+  },
+  {
+    "id": "time_2025-Q3",
+    "text": "Sales Summary for 2025-Q3\nTotal Records: 92\nTotal Sales: $47377.00\nAverage Sale: $514.97\nAverage Customer Satisfaction: 3.01\nDate Range: 2025-07-01 to 2025-09-30\n\nSales by Product:\n- Widget A: $12450.00 total, 22 sales, $565.91 average\n- Widget B: $14543.00 total, 27 sales, $538.63 average\n- Widget C: $10177.00 total, 22 sales, $462.59 average\n- Widget D: $10207.00 total, 21 sales, $486.05 average\n\nSales by Region:\n- East: $9074.00 total, 18 sales, $504.11 average\n- North: $11555.00 total, 20 sales, $577.75 average\n- South: $13375.00 total, 27 sales, $495.37 average\n- West: $13373.00 total, 27 sales, $495.30 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2025-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2025-Q3",
+        "total_records": 92,
+        "total_sales": 47377.0,
+        "average_sale": 514.9673913043479,
+        "average_satisfaction": 3.006243273018861,
+        "date_range": {
+          "start": "2025-07-01",
+          "end": "2025-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 12450,
+            "count": 22,
+            "mean": 565.9090909090909
+          },
+          "Widget B": {
+            "sum": 14543,
+            "count": 27,
+            "mean": 538.6296296296297
+          },
+          "Widget C": {
+            "sum": 10177,
+            "count": 22,
+            "mean": 462.59090909090907
+          },
+          "Widget D": {
+            "sum": 10207,
+            "count": 21,
+            "mean": 486.04761904761904
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9074,
+            "count": 18,
+            "mean": 504.1111111111111
+          },
+          "North": {
+            "sum": 11555,
+            "count": 20,
+            "mean": 577.75
+          },
+          "South": {
+            "sum": 13375,
+            "count": 27,
+            "mean": 495.3703703703704
+          },
+          "West": {
+            "sum": 13373,
+            "count": 27,
+            "mean": 495.2962962962963
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 26013,
+            "count": 47,
+            "mean": 553.468085106383
+          },
+          "Male": {
+            "sum": 21364,
+            "count": 45,
+            "mean": 474.75555555555553
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2025_Q3.png"
+    }
+  },
+  {
+    "id": "time_2025-Q4",
+    "text": "Sales Summary for 2025-Q4\nTotal Records: 92\nTotal Sales: $53745.00\nAverage Sale: $584.18\nAverage Customer Satisfaction: 2.99\nDate Range: 2025-10-01 to 2025-12-31\n\nSales by Product:\n- Widget A: $14682.00 total, 24 sales, $611.75 average\n- Widget B: $17347.00 total, 24 sales, $722.79 average\n- Widget C: $10983.00 total, 21 sales, $523.00 average\n- Widget D: $10733.00 total, 23 sales, $466.65 average\n\nSales by Region:\n- East: $14838.00 total, 27 sales, $549.56 average\n- North: $15437.00 total, 24 sales, $643.21 average\n- South: $12354.00 total, 23 sales, $537.13 average\n- West: $11116.00 total, 18 sales, $617.56 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2025-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2025-Q4",
+        "total_records": 92,
+        "total_sales": 53745.0,
+        "average_sale": 584.1847826086956,
+        "average_satisfaction": 2.9933582384971626,
+        "date_range": {
+          "start": "2025-10-01",
+          "end": "2025-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14682,
+            "count": 24,
+            "mean": 611.75
+          },
+          "Widget B": {
+            "sum": 17347,
+            "count": 24,
+            "mean": 722.7916666666666
+          },
+          "Widget C": {
+            "sum": 10983,
+            "count": 21,
+            "mean": 523.0
+          },
+          "Widget D": {
+            "sum": 10733,
+            "count": 23,
+            "mean": 466.6521739130435
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 14838,
+            "count": 27,
+            "mean": 549.5555555555555
+          },
+          "North": {
+            "sum": 15437,
+            "count": 24,
+            "mean": 643.2083333333334
+          },
+          "South": {
+            "sum": 12354,
+            "count": 23,
+            "mean": 537.1304347826087
+          },
+          "West": {
+            "sum": 11116,
+            "count": 18,
+            "mean": 617.5555555555555
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 31320,
+            "count": 52,
+            "mean": 602.3076923076923
+          },
+          "Male": {
+            "sum": 22425,
+            "count": 40,
+            "mean": 560.625
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2025_Q4.png"
+    }
+  },
+  {
+    "id": "time_2026-Q1",
+    "text": "Sales Summary for 2026-Q1\nTotal Records: 90\nTotal Sales: $52556.00\nAverage Sale: $583.96\nAverage Customer Satisfaction: 2.92\nDate Range: 2026-01-01 to 2026-03-31\n\nSales by Product:\n- Widget A: $15095.00 total, 26 sales, $580.58 average\n- Widget B: $12542.00 total, 21 sales, $597.24 average\n- Widget C: $13932.00 total, 25 sales, $557.28 average\n- Widget D: $10987.00 total, 18 sales, $610.39 average\n\nSales by Region:\n- East: $8180.00 total, 17 sales, $481.18 average\n- North: $8911.00 total, 17 sales, $524.18 average\n- South: $15109.00 total, 24 sales, $629.54 average\n- West: $20356.00 total, 32 sales, $636.12 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2026-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2026-Q1",
+        "total_records": 90,
+        "total_sales": 52556.0,
+        "average_sale": 583.9555555555555,
+        "average_satisfaction": 2.9243315223669373,
+        "date_range": {
+          "start": "2026-01-01",
+          "end": "2026-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 15095,
+            "count": 26,
+            "mean": 580.5769230769231
+          },
+          "Widget B": {
+            "sum": 12542,
+            "count": 21,
+            "mean": 597.2380952380952
+          },
+          "Widget C": {
+            "sum": 13932,
+            "count": 25,
+            "mean": 557.28
+          },
+          "Widget D": {
+            "sum": 10987,
+            "count": 18,
+            "mean": 610.3888888888889
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 8180,
+            "count": 17,
+            "mean": 481.1764705882353
+          },
+          "North": {
+            "sum": 8911,
+            "count": 17,
+            "mean": 524.1764705882352
+          },
+          "South": {
+            "sum": 15109,
+            "count": 24,
+            "mean": 629.5416666666666
+          },
+          "West": {
+            "sum": 20356,
+            "count": 32,
+            "mean": 636.125
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 27855,
+            "count": 50,
+            "mean": 557.1
+          },
+          "Male": {
+            "sum": 24701,
+            "count": 40,
+            "mean": 617.525
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2026_Q1.png"
+    }
+  },
+  {
+    "id": "time_2026-Q2",
+    "text": "Sales Summary for 2026-Q2\nTotal Records: 91\nTotal Sales: $53739.00\nAverage Sale: $590.54\nAverage Customer Satisfaction: 2.99\nDate Range: 2026-04-01 to 2026-06-30\n\nSales by Product:\n- Widget A: $14501.00 total, 22 sales, $659.14 average\n- Widget B: $12159.00 total, 22 sales, $552.68 average\n- Widget C: $15266.00 total, 24 sales, $636.08 average\n- Widget D: $11813.00 total, 23 sales, $513.61 average\n\nSales by Region:\n- East: $9608.00 total, 18 sales, $533.78 average\n- North: $15913.00 total, 28 sales, $568.32 average\n- South: $16554.00 total, 26 sales, $636.69 average\n- West: $11664.00 total, 19 sales, $613.89 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2026-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2026-Q2",
+        "total_records": 91,
+        "total_sales": 53739.0,
+        "average_sale": 590.5384615384615,
+        "average_satisfaction": 2.9926691705883868,
+        "date_range": {
+          "start": "2026-04-01",
+          "end": "2026-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14501,
+            "count": 22,
+            "mean": 659.1363636363636
+          },
+          "Widget B": {
+            "sum": 12159,
+            "count": 22,
+            "mean": 552.6818181818181
+          },
+          "Widget C": {
+            "sum": 15266,
+            "count": 24,
+            "mean": 636.0833333333334
+          },
+          "Widget D": {
+            "sum": 11813,
+            "count": 23,
+            "mean": 513.6086956521739
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9608,
+            "count": 18,
+            "mean": 533.7777777777778
+          },
+          "North": {
+            "sum": 15913,
+            "count": 28,
+            "mean": 568.3214285714286
+          },
+          "South": {
+            "sum": 16554,
+            "count": 26,
+            "mean": 636.6923076923077
+          },
+          "West": {
+            "sum": 11664,
+            "count": 19,
+            "mean": 613.8947368421053
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24802,
+            "count": 46,
+            "mean": 539.1739130434783
+          },
+          "Male": {
+            "sum": 28937,
+            "count": 45,
+            "mean": 643.0444444444445
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2026_Q2.png"
+    }
+  },
+  {
+    "id": "time_2026-Q3",
+    "text": "Sales Summary for 2026-Q3\nTotal Records: 92\nTotal Sales: $49303.00\nAverage Sale: $535.90\nAverage Customer Satisfaction: 3.03\nDate Range: 2026-07-01 to 2026-09-30\n\nSales by Product:\n- Widget A: $15447.00 total, 24 sales, $643.62 average\n- Widget B: $13563.00 total, 25 sales, $542.52 average\n- Widget C: $10490.00 total, 25 sales, $419.60 average\n- Widget D: $9803.00 total, 18 sales, $544.61 average\n\nSales by Region:\n- East: $12227.00 total, 23 sales, $531.61 average\n- North: $7987.00 total, 17 sales, $469.82 average\n- South: $11143.00 total, 19 sales, $586.47 average\n- West: $17946.00 total, 33 sales, $543.82 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2026-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2026-Q3",
+        "total_records": 92,
+        "total_sales": 49303.0,
+        "average_sale": 535.9021739130435,
+        "average_satisfaction": 3.029396108172411,
+        "date_range": {
+          "start": "2026-07-01",
+          "end": "2026-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 15447,
+            "count": 24,
+            "mean": 643.625
+          },
+          "Widget B": {
+            "sum": 13563,
+            "count": 25,
+            "mean": 542.52
+          },
+          "Widget C": {
+            "sum": 10490,
+            "count": 25,
+            "mean": 419.6
+          },
+          "Widget D": {
+            "sum": 9803,
+            "count": 18,
+            "mean": 544.6111111111111
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12227,
+            "count": 23,
+            "mean": 531.6086956521739
+          },
+          "North": {
+            "sum": 7987,
+            "count": 17,
+            "mean": 469.8235294117647
+          },
+          "South": {
+            "sum": 11143,
+            "count": 19,
+            "mean": 586.4736842105264
+          },
+          "West": {
+            "sum": 17946,
+            "count": 33,
+            "mean": 543.8181818181819
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 23521,
+            "count": 43,
+            "mean": 547.0
+          },
+          "Male": {
+            "sum": 25782,
+            "count": 49,
+            "mean": 526.1632653061224
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2026_Q3.png"
+    }
+  },
+  {
+    "id": "time_2026-Q4",
+    "text": "Sales Summary for 2026-Q4\nTotal Records: 92\nTotal Sales: $50577.00\nAverage Sale: $549.75\nAverage Customer Satisfaction: 3.06\nDate Range: 2026-10-01 to 2026-12-31\n\nSales by Product:\n- Widget A: $10194.00 total, 20 sales, $509.70 average\n- Widget B: $10533.00 total, 17 sales, $619.59 average\n- Widget C: $15891.00 total, 31 sales, $512.61 average\n- Widget D: $13959.00 total, 24 sales, $581.62 average\n\nSales by Region:\n- East: $9962.00 total, 20 sales, $498.10 average\n- North: $11959.00 total, 23 sales, $519.96 average\n- South: $15108.00 total, 26 sales, $581.08 average\n- West: $13548.00 total, 23 sales, $589.04 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2026-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2026-Q4",
+        "total_records": 92,
+        "total_sales": 50577.0,
+        "average_sale": 549.75,
+        "average_satisfaction": 3.0598139550240897,
+        "date_range": {
+          "start": "2026-10-01",
+          "end": "2026-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 10194,
+            "count": 20,
+            "mean": 509.7
+          },
+          "Widget B": {
+            "sum": 10533,
+            "count": 17,
+            "mean": 619.5882352941177
+          },
+          "Widget C": {
+            "sum": 15891,
+            "count": 31,
+            "mean": 512.6129032258065
+          },
+          "Widget D": {
+            "sum": 13959,
+            "count": 24,
+            "mean": 581.625
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 9962,
+            "count": 20,
+            "mean": 498.1
+          },
+          "North": {
+            "sum": 11959,
+            "count": 23,
+            "mean": 519.9565217391304
+          },
+          "South": {
+            "sum": 15108,
+            "count": 26,
+            "mean": 581.0769230769231
+          },
+          "West": {
+            "sum": 13548,
+            "count": 23,
+            "mean": 589.0434782608696
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 23186,
+            "count": 44,
+            "mean": 526.9545454545455
+          },
+          "Male": {
+            "sum": 27391,
+            "count": 48,
+            "mean": 570.6458333333334
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2026_Q4.png"
+    }
+  },
+  {
+    "id": "time_2027-Q1",
+    "text": "Sales Summary for 2027-Q1\nTotal Records: 90\nTotal Sales: $43994.00\nAverage Sale: $488.82\nAverage Customer Satisfaction: 3.00\nDate Range: 2027-01-01 to 2027-03-31\n\nSales by Product:\n- Widget A: $11895.00 total, 26 sales, $457.50 average\n- Widget B: $17537.00 total, 34 sales, $515.79 average\n- Widget C: $6907.00 total, 13 sales, $531.31 average\n- Widget D: $7655.00 total, 17 sales, $450.29 average\n\nSales by Region:\n- East: $15581.00 total, 29 sales, $537.28 average\n- North: $8742.00 total, 18 sales, $485.67 average\n- South: $9676.00 total, 21 sales, $460.76 average\n- West: $9995.00 total, 22 sales, $454.32 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2027-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2027-Q1",
+        "total_records": 90,
+        "total_sales": 43994.0,
+        "average_sale": 488.8222222222222,
+        "average_satisfaction": 3.0046750170939176,
+        "date_range": {
+          "start": "2027-01-01",
+          "end": "2027-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 11895,
+            "count": 26,
+            "mean": 457.5
+          },
+          "Widget B": {
+            "sum": 17537,
+            "count": 34,
+            "mean": 515.7941176470588
+          },
+          "Widget C": {
+            "sum": 6907,
+            "count": 13,
+            "mean": 531.3076923076923
+          },
+          "Widget D": {
+            "sum": 7655,
+            "count": 17,
+            "mean": 450.29411764705884
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 15581,
+            "count": 29,
+            "mean": 537.2758620689655
+          },
+          "North": {
+            "sum": 8742,
+            "count": 18,
+            "mean": 485.6666666666667
+          },
+          "South": {
+            "sum": 9676,
+            "count": 21,
+            "mean": 460.76190476190476
+          },
+          "West": {
+            "sum": 9995,
+            "count": 22,
+            "mean": 454.3181818181818
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 24720,
+            "count": 50,
+            "mean": 494.4
+          },
+          "Male": {
+            "sum": 19274,
+            "count": 40,
+            "mean": 481.85
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2027_Q1.png"
+    }
+  },
+  {
+    "id": "time_2027-Q2",
+    "text": "Sales Summary for 2027-Q2\nTotal Records: 91\nTotal Sales: $51958.00\nAverage Sale: $570.97\nAverage Customer Satisfaction: 3.19\nDate Range: 2027-04-01 to 2027-06-30\n\nSales by Product:\n- Widget A: $14995.00 total, 25 sales, $599.80 average\n- Widget B: $11082.00 total, 18 sales, $615.67 average\n- Widget C: $13262.00 total, 27 sales, $491.19 average\n- Widget D: $12619.00 total, 21 sales, $600.90 average\n\nSales by Region:\n- East: $12037.00 total, 22 sales, $547.14 average\n- North: $16183.00 total, 29 sales, $558.03 average\n- South: $9186.00 total, 16 sales, $574.12 average\n- West: $14552.00 total, 24 sales, $606.33 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2027-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2027-Q2",
+        "total_records": 91,
+        "total_sales": 51958.0,
+        "average_sale": 570.967032967033,
+        "average_satisfaction": 3.1946231768723727,
+        "date_range": {
+          "start": "2027-04-01",
+          "end": "2027-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14995,
+            "count": 25,
+            "mean": 599.8
+          },
+          "Widget B": {
+            "sum": 11082,
+            "count": 18,
+            "mean": 615.6666666666666
+          },
+          "Widget C": {
+            "sum": 13262,
+            "count": 27,
+            "mean": 491.18518518518516
+          },
+          "Widget D": {
+            "sum": 12619,
+            "count": 21,
+            "mean": 600.9047619047619
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12037,
+            "count": 22,
+            "mean": 547.1363636363636
+          },
+          "North": {
+            "sum": 16183,
+            "count": 29,
+            "mean": 558.0344827586207
+          },
+          "South": {
+            "sum": 9186,
+            "count": 16,
+            "mean": 574.125
+          },
+          "West": {
+            "sum": 14552,
+            "count": 24,
+            "mean": 606.3333333333334
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 28565,
+            "count": 52,
+            "mean": 549.3269230769231
+          },
+          "Male": {
+            "sum": 23393,
+            "count": 39,
+            "mean": 599.8205128205128
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2027_Q2.png"
+    }
+  },
+  {
+    "id": "time_2027-Q3",
+    "text": "Sales Summary for 2027-Q3\nTotal Records: 92\nTotal Sales: $52428.00\nAverage Sale: $569.87\nAverage Customer Satisfaction: 2.74\nDate Range: 2027-07-01 to 2027-09-30\n\nSales by Product:\n- Widget A: $13248.00 total, 21 sales, $630.86 average\n- Widget B: $16754.00 total, 26 sales, $644.38 average\n- Widget C: $15070.00 total, 28 sales, $538.21 average\n- Widget D: $7356.00 total, 17 sales, $432.71 average\n\nSales by Region:\n- East: $10202.00 total, 18 sales, $566.78 average\n- North: $13366.00 total, 25 sales, $534.64 average\n- South: $13084.00 total, 22 sales, $594.73 average\n- West: $15776.00 total, 27 sales, $584.30 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2027-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2027-Q3",
+        "total_records": 92,
+        "total_sales": 52428.0,
+        "average_sale": 569.8695652173913,
+        "average_satisfaction": 2.7386408388349928,
+        "date_range": {
+          "start": "2027-07-01",
+          "end": "2027-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 13248,
+            "count": 21,
+            "mean": 630.8571428571429
+          },
+          "Widget B": {
+            "sum": 16754,
+            "count": 26,
+            "mean": 644.3846153846154
+          },
+          "Widget C": {
+            "sum": 15070,
+            "count": 28,
+            "mean": 538.2142857142857
+          },
+          "Widget D": {
+            "sum": 7356,
+            "count": 17,
+            "mean": 432.70588235294116
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 10202,
+            "count": 18,
+            "mean": 566.7777777777778
+          },
+          "North": {
+            "sum": 13366,
+            "count": 25,
+            "mean": 534.64
+          },
+          "South": {
+            "sum": 13084,
+            "count": 22,
+            "mean": 594.7272727272727
+          },
+          "West": {
+            "sum": 15776,
+            "count": 27,
+            "mean": 584.2962962962963
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 25814,
+            "count": 42,
+            "mean": 614.6190476190476
+          },
+          "Male": {
+            "sum": 26614,
+            "count": 50,
+            "mean": 532.28
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2027_Q3.png"
+    }
+  },
+  {
+    "id": "time_2027-Q4",
+    "text": "Sales Summary for 2027-Q4\nTotal Records: 92\nTotal Sales: $46774.00\nAverage Sale: $508.41\nAverage Customer Satisfaction: 2.92\nDate Range: 2027-10-01 to 2027-12-31\n\nSales by Product:\n- Widget A: $15171.00 total, 28 sales, $541.82 average\n- Widget B: $11166.00 total, 22 sales, $507.55 average\n- Widget C: $10537.00 total, 21 sales, $501.76 average\n- Widget D: $9900.00 total, 21 sales, $471.43 average\n\nSales by Region:\n- East: $10904.00 total, 25 sales, $436.16 average\n- North: $17983.00 total, 30 sales, $599.43 average\n- South: $7956.00 total, 17 sales, $468.00 average\n- West: $9931.00 total, 20 sales, $496.55 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2027-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2027-Q4",
+        "total_records": 92,
+        "total_sales": 46774.0,
+        "average_sale": 508.4130434782609,
+        "average_satisfaction": 2.915451334898033,
+        "date_range": {
+          "start": "2027-10-01",
+          "end": "2027-12-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 15171,
+            "count": 28,
+            "mean": 541.8214285714286
+          },
+          "Widget B": {
+            "sum": 11166,
+            "count": 22,
+            "mean": 507.54545454545456
+          },
+          "Widget C": {
+            "sum": 10537,
+            "count": 21,
+            "mean": 501.76190476190476
+          },
+          "Widget D": {
+            "sum": 9900,
+            "count": 21,
+            "mean": 471.42857142857144
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 10904,
+            "count": 25,
+            "mean": 436.16
+          },
+          "North": {
+            "sum": 17983,
+            "count": 30,
+            "mean": 599.4333333333333
+          },
+          "South": {
+            "sum": 7956,
+            "count": 17,
+            "mean": 468.0
+          },
+          "West": {
+            "sum": 9931,
+            "count": 20,
+            "mean": 496.55
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 17509,
+            "count": 34,
+            "mean": 514.9705882352941
+          },
+          "Male": {
+            "sum": 29265,
+            "count": 58,
+            "mean": 504.5689655172414
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2027_Q4.png"
+    }
+  },
+  {
+    "id": "time_2028-Q1",
+    "text": "Sales Summary for 2028-Q1\nTotal Records: 91\nTotal Sales: $52644.00\nAverage Sale: $578.51\nAverage Customer Satisfaction: 3.06\nDate Range: 2028-01-01 to 2028-03-31\n\nSales by Product:\n- Widget A: $16885.00 total, 30 sales, $562.83 average\n- Widget B: $13991.00 total, 22 sales, $635.95 average\n- Widget C: $11178.00 total, 20 sales, $558.90 average\n- Widget D: $10590.00 total, 19 sales, $557.37 average\n\nSales by Region:\n- East: $16575.00 total, 25 sales, $663.00 average\n- North: $13205.00 total, 23 sales, $574.13 average\n- South: $11700.00 total, 24 sales, $487.50 average\n- West: $11164.00 total, 19 sales, $587.58 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2028-Q1",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2028-Q1",
+        "total_records": 91,
+        "total_sales": 52644.0,
+        "average_sale": 578.5054945054945,
+        "average_satisfaction": 3.0601575911350176,
+        "date_range": {
+          "start": "2028-01-01",
+          "end": "2028-03-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 16885,
+            "count": 30,
+            "mean": 562.8333333333334
+          },
+          "Widget B": {
+            "sum": 13991,
+            "count": 22,
+            "mean": 635.9545454545455
+          },
+          "Widget C": {
+            "sum": 11178,
+            "count": 20,
+            "mean": 558.9
+          },
+          "Widget D": {
+            "sum": 10590,
+            "count": 19,
+            "mean": 557.3684210526316
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 16575,
+            "count": 25,
+            "mean": 663.0
+          },
+          "North": {
+            "sum": 13205,
+            "count": 23,
+            "mean": 574.1304347826087
+          },
+          "South": {
+            "sum": 11700,
+            "count": 24,
+            "mean": 487.5
+          },
+          "West": {
+            "sum": 11164,
+            "count": 19,
+            "mean": 587.578947368421
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 29814,
+            "count": 47,
+            "mean": 634.3404255319149
+          },
+          "Male": {
+            "sum": 22830,
+            "count": 44,
+            "mean": 518.8636363636364
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2028_Q1.png"
+    }
+  },
+  {
+    "id": "time_2028-Q2",
+    "text": "Sales Summary for 2028-Q2\nTotal Records: 91\nTotal Sales: $54186.00\nAverage Sale: $595.45\nAverage Customer Satisfaction: 3.14\nDate Range: 2028-04-01 to 2028-06-30\n\nSales by Product:\n- Widget A: $14234.00 total, 23 sales, $618.87 average\n- Widget B: $11161.00 total, 20 sales, $558.05 average\n- Widget C: $13536.00 total, 23 sales, $588.52 average\n- Widget D: $15255.00 total, 25 sales, $610.20 average\n\nSales by Region:\n- East: $12993.00 total, 23 sales, $564.91 average\n- North: $14920.00 total, 25 sales, $596.80 average\n- South: $13999.00 total, 21 sales, $666.62 average\n- West: $12274.00 total, 22 sales, $557.91 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2028-Q2",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2028-Q2",
+        "total_records": 91,
+        "total_sales": 54186.0,
+        "average_sale": 595.4505494505495,
+        "average_satisfaction": 3.1366224881928333,
+        "date_range": {
+          "start": "2028-04-01",
+          "end": "2028-06-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 14234,
+            "count": 23,
+            "mean": 618.8695652173913
+          },
+          "Widget B": {
+            "sum": 11161,
+            "count": 20,
+            "mean": 558.05
+          },
+          "Widget C": {
+            "sum": 13536,
+            "count": 23,
+            "mean": 588.5217391304348
+          },
+          "Widget D": {
+            "sum": 15255,
+            "count": 25,
+            "mean": 610.2
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 12993,
+            "count": 23,
+            "mean": 564.9130434782609
+          },
+          "North": {
+            "sum": 14920,
+            "count": 25,
+            "mean": 596.8
+          },
+          "South": {
+            "sum": 13999,
+            "count": 21,
+            "mean": 666.6190476190476
+          },
+          "West": {
+            "sum": 12274,
+            "count": 22,
+            "mean": 557.9090909090909
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 28238,
+            "count": 49,
+            "mean": 576.2857142857143
+          },
+          "Male": {
+            "sum": 25948,
+            "count": 42,
+            "mean": 617.8095238095239
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2028_Q2.png"
+    }
+  },
+  {
+    "id": "time_2028-Q3",
+    "text": "Sales Summary for 2028-Q3\nTotal Records: 92\nTotal Sales: $51076.00\nAverage Sale: $555.17\nAverage Customer Satisfaction: 2.96\nDate Range: 2028-07-01 to 2028-09-30\n\nSales by Product:\n- Widget A: $11998.00 total, 21 sales, $571.33 average\n- Widget B: $12326.00 total, 23 sales, $535.91 average\n- Widget C: $16110.00 total, 27 sales, $596.67 average\n- Widget D: $10642.00 total, 21 sales, $506.76 average\n\nSales by Region:\n- East: $13996.00 total, 24 sales, $583.17 average\n- North: $15260.00 total, 28 sales, $545.00 average\n- South: $8917.00 total, 18 sales, $495.39 average\n- West: $12903.00 total, 22 sales, $586.50 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2028-Q3",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2028-Q3",
+        "total_records": 92,
+        "total_sales": 51076.0,
+        "average_sale": 555.1739130434783,
+        "average_satisfaction": 2.957613316008835,
+        "date_range": {
+          "start": "2028-07-01",
+          "end": "2028-09-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 11998,
+            "count": 21,
+            "mean": 571.3333333333334
+          },
+          "Widget B": {
+            "sum": 12326,
+            "count": 23,
+            "mean": 535.9130434782609
+          },
+          "Widget C": {
+            "sum": 16110,
+            "count": 27,
+            "mean": 596.6666666666666
+          },
+          "Widget D": {
+            "sum": 10642,
+            "count": 21,
+            "mean": 506.76190476190476
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 13996,
+            "count": 24,
+            "mean": 583.1666666666666
+          },
+          "North": {
+            "sum": 15260,
+            "count": 28,
+            "mean": 545.0
+          },
+          "South": {
+            "sum": 8917,
+            "count": 18,
+            "mean": 495.3888888888889
+          },
+          "West": {
+            "sum": 12903,
+            "count": 22,
+            "mean": 586.5
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 29889,
+            "count": 53,
+            "mean": 563.9433962264151
+          },
+          "Male": {
+            "sum": 21187,
+            "count": 39,
+            "mean": 543.2564102564103
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2028_Q3.png"
+    }
+  },
+  {
+    "id": "time_2028-Q4",
+    "text": "Sales Summary for 2028-Q4\nTotal Records: 35\nTotal Sales: $21705.00\nAverage Sale: $620.14\nAverage Customer Satisfaction: 3.09\nDate Range: 2028-10-01 to 2028-11-04\n\nSales by Product:\n- Widget A: $4257.00 total, 8 sales, $532.12 average\n- Widget B: $2817.00 total, 5 sales, $563.40 average\n- Widget C: $5135.00 total, 8 sales, $641.88 average\n- Widget D: $9496.00 total, 14 sales, $678.29 average\n\nSales by Region:\n- East: $7956.00 total, 12 sales, $663.00 average\n- North: $3008.00 total, 5 sales, $601.60 average\n- South: $6308.00 total, 9 sales, $700.89 average\n- West: $4433.00 total, 9 sales, $492.56 average\n",
+    "metadata": {
+      "type": "time_period",
+      "period": "2028-Q4",
+      "raw_data": {
+        "level": "time_period",
+        "value": "2028-Q4",
+        "total_records": 35,
+        "total_sales": 21705.0,
+        "average_sale": 620.1428571428571,
+        "average_satisfaction": 3.088004298262975,
+        "date_range": {
+          "start": "2028-10-01",
+          "end": "2028-11-04"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 4257,
+            "count": 8,
+            "mean": 532.125
+          },
+          "Widget B": {
+            "sum": 2817,
+            "count": 5,
+            "mean": 563.4
+          },
+          "Widget C": {
+            "sum": 5135,
+            "count": 8,
+            "mean": 641.875
+          },
+          "Widget D": {
+            "sum": 9496,
+            "count": 14,
+            "mean": 678.2857142857143
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 7956,
+            "count": 12,
+            "mean": 663.0
+          },
+          "North": {
+            "sum": 3008,
+            "count": 5,
+            "mean": 601.6
+          },
+          "South": {
+            "sum": 6308,
+            "count": 9,
+            "mean": 700.8888888888889
+          },
+          "West": {
+            "sum": 4433,
+            "count": 9,
+            "mean": 492.55555555555554
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 10006,
+            "count": 17,
+            "mean": 588.5882352941177
+          },
+          "Male": {
+            "sum": 11699,
+            "count": 18,
+            "mean": 649.9444444444445
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/time_period_2028_Q4.png"
+    }
+  },
+  {
+    "id": "product_Widget_C",
+    "text": "Sales Summary for Widget C\nTotal Records: 620\nTotal Sales: $335069.00\nAverage Sale: $540.43\nAverage Customer Satisfaction: 3.01\nDate Range: 2022-01-01 to 2028-11-03\n\nSales by Region:\n- East: $71036.00 total, 130 sales, $546.43 average\n- North: $88701.00 total, 166 sales, $534.34 average\n- South: $78000.00 total, 147 sales, $530.61 average\n- West: $97332.00 total, 177 sales, $549.90 average\n\nSales by Gender:\n- Female: $167899.00 total, 316 sales, $531.33 average\n- Male: $167170.00 total, 304 sales, $549.90 average\n",
+    "metadata": {
+      "type": "product",
+      "product": "Widget C",
+      "raw_data": {
+        "level": "product",
+        "value": "Widget C",
+        "total_records": 620,
+        "total_sales": 335069.0,
+        "average_sale": 540.4338709677419,
+        "average_satisfaction": 3.0076331808117733,
+        "date_range": {
+          "start": "2022-01-01",
+          "end": "2028-11-03"
+        },
+        "product_summary": {
+          "Widget C": {
+            "sum": 335069,
+            "count": 620,
+            "mean": 540.4338709677419
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 71036,
+            "count": 130,
+            "mean": 546.4307692307692
+          },
+          "North": {
+            "sum": 88701,
+            "count": 166,
+            "mean": 534.343373493976
+          },
+          "South": {
+            "sum": 78000,
+            "count": 147,
+            "mean": 530.6122448979592
+          },
+          "West": {
+            "sum": 97332,
+            "count": 177,
+            "mean": 549.8983050847457
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 167899,
+            "count": 316,
+            "mean": 531.3259493670886
+          },
+          "Male": {
+            "sum": 167170,
+            "count": 304,
+            "mean": 549.9013157894736
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/product_Widget_C.png"
+    }
+  },
+  {
+    "id": "product_Widget_D",
+    "text": "Sales Summary for Widget D\nTotal Records: 612\nTotal Sales: $326854.00\nAverage Sale: $534.08\nAverage Customer Satisfaction: 3.07\nDate Range: 2022-01-02 to 2028-11-04\n\nSales by Region:\n- East: $71460.00 total, 137 sales, $521.61 average\n- North: $90727.00 total, 166 sales, $546.55 average\n- South: $82500.00 total, 154 sales, $535.71 average\n- West: $82167.00 total, 155 sales, $530.11 average\n\nSales by Gender:\n- Female: $164397.00 total, 305 sales, $539.01 average\n- Male: $162457.00 total, 307 sales, $529.18 average\n",
+    "metadata": {
+      "type": "product",
+      "product": "Widget D",
+      "raw_data": {
+        "level": "product",
+        "value": "Widget D",
+        "total_records": 612,
+        "total_sales": 326854.0,
+        "average_sale": 534.0751633986928,
+        "average_satisfaction": 3.0703056758699483,
+        "date_range": {
+          "start": "2022-01-02",
+          "end": "2028-11-04"
+        },
+        "product_summary": {
+          "Widget D": {
+            "sum": 326854,
+            "count": 612,
+            "mean": 534.0751633986928
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 71460,
+            "count": 137,
+            "mean": 521.6058394160584
+          },
+          "North": {
+            "sum": 90727,
+            "count": 166,
+            "mean": 546.5481927710844
+          },
+          "South": {
+            "sum": 82500,
+            "count": 154,
+            "mean": 535.7142857142857
+          },
+          "West": {
+            "sum": 82167,
+            "count": 155,
+            "mean": 530.1096774193549
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 164397,
+            "count": 305,
+            "mean": 539.0065573770491
+          },
+          "Male": {
+            "sum": 162457,
+            "count": 307,
+            "mean": 529.1758957654723
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/product_Widget_D.png"
+    }
+  },
+  {
+    "id": "product_Widget_A",
+    "text": "Sales Summary for Widget A\nTotal Records: 656\nTotal Sales: $375235.00\nAverage Sale: $572.00\nAverage Customer Satisfaction: 3.03\nDate Range: 2022-01-03 to 2028-10-30\n\nSales by Region:\n- East: $89292.00 total, 168 sales, $531.50 average\n- North: $90965.00 total, 158 sales, $575.73 average\n- South: $99603.00 total, 173 sales, $575.74 average\n- West: $95375.00 total, 157 sales, $607.48 average\n\nSales by Gender:\n- Female: $189345.00 total, 326 sales, $580.81 average\n- Male: $185890.00 total, 330 sales, $563.30 average\n",
+    "metadata": {
+      "type": "product",
+      "product": "Widget A",
+      "raw_data": {
+        "level": "product",
+        "value": "Widget A",
+        "total_records": 656,
+        "total_sales": 375235.0,
+        "average_sale": 572.0045731707318,
+        "average_satisfaction": 3.0319184296279227,
+        "date_range": {
+          "start": "2022-01-03",
+          "end": "2028-10-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 375235,
+            "count": 656,
+            "mean": 572.0045731707318
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 89292,
+            "count": 168,
+            "mean": 531.5
+          },
+          "North": {
+            "sum": 90965,
+            "count": 158,
+            "mean": 575.7278481012659
+          },
+          "South": {
+            "sum": 99603,
+            "count": 173,
+            "mean": 575.7398843930636
+          },
+          "West": {
+            "sum": 95375,
+            "count": 157,
+            "mean": 607.484076433121
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 189345,
+            "count": 326,
+            "mean": 580.8128834355829
+          },
+          "Male": {
+            "sum": 185890,
+            "count": 330,
+            "mean": 563.3030303030303
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/product_Widget_A.png"
+    }
+  },
+  {
+    "id": "product_Widget_B",
+    "text": "Sales Summary for Widget B\nTotal Records: 612\nTotal Sales: $346062.00\nAverage Sale: $565.46\nAverage Customer Satisfaction: 2.99\nDate Range: 2022-01-10 to 2028-11-02\n\nSales by Region:\n- East: $88508.00 total, 154 sales, $574.73 average\n- North: $82632.00 total, 149 sales, $554.58 average\n- South: $88413.00 total, 154 sales, $574.11 average\n- West: $86509.00 total, 155 sales, $558.12 average\n\nSales by Gender:\n- Female: $180410.00 total, 309 sales, $583.85 average\n- Male: $165652.00 total, 303 sales, $546.71 average\n",
+    "metadata": {
+      "type": "product",
+      "product": "Widget B",
+      "raw_data": {
+        "level": "product",
+        "value": "Widget B",
+        "total_records": 612,
+        "total_sales": 346062.0,
+        "average_sale": 565.4607843137255,
+        "average_satisfaction": 2.9934236307516846,
+        "date_range": {
+          "start": "2022-01-10",
+          "end": "2028-11-02"
+        },
+        "product_summary": {
+          "Widget B": {
+            "sum": 346062,
+            "count": 612,
+            "mean": 565.4607843137255
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 88508,
+            "count": 154,
+            "mean": 574.7272727272727
+          },
+          "North": {
+            "sum": 82632,
+            "count": 149,
+            "mean": 554.5771812080537
+          },
+          "South": {
+            "sum": 88413,
+            "count": 154,
+            "mean": 574.1103896103896
+          },
+          "West": {
+            "sum": 86509,
+            "count": 155,
+            "mean": 558.1225806451613
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 180410,
+            "count": 309,
+            "mean": 583.8511326860842
+          },
+          "Male": {
+            "sum": 165652,
+            "count": 303,
+            "mean": 546.7062706270627
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/product_Widget_B.png"
+    }
+  },
+  {
+    "id": "region_South",
+    "text": "Sales Summary for South Region\nTotal Records: 628\nTotal Sales: $348516.00\nAverage Sale: $554.96\nAverage Customer Satisfaction: 3.03\nDate Range: 2022-01-01 to 2028-11-03\n\nSales by Product:\n- Widget A: $99603.00 total, 173 sales, $575.74 average\n- Widget B: $88413.00 total, 154 sales, $574.11 average\n- Widget C: $78000.00 total, 147 sales, $530.61 average\n- Widget D: $82500.00 total, 154 sales, $535.71 average\n\nSales by Gender:\n- Female: $170319.00 total, 303 sales, $562.11 average\n- Male: $178197.00 total, 325 sales, $548.30 average\n",
+    "metadata": {
+      "type": "region",
+      "region": "South",
+      "raw_data": {
+        "level": "region",
+        "value": "South",
+        "total_records": 628,
+        "total_sales": 348516.0,
+        "average_sale": 554.9617834394904,
+        "average_satisfaction": 3.03486032401017,
+        "date_range": {
+          "start": "2022-01-01",
+          "end": "2028-11-03"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 99603,
+            "count": 173,
+            "mean": 575.7398843930636
+          },
+          "Widget B": {
+            "sum": 88413,
+            "count": 154,
+            "mean": 574.1103896103896
+          },
+          "Widget C": {
+            "sum": 78000,
+            "count": 147,
+            "mean": 530.6122448979592
+          },
+          "Widget D": {
+            "sum": 82500,
+            "count": 154,
+            "mean": 535.7142857142857
+          }
+        },
+        "region_summary": {
+          "South": {
+            "sum": 348516,
+            "count": 628,
+            "mean": 554.9617834394904
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 170319,
+            "count": 303,
+            "mean": 562.1089108910891
+          },
+          "Male": {
+            "sum": 178197,
+            "count": 325,
+            "mean": 548.2984615384615
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/region_South.png"
+    }
+  },
+  {
+    "id": "region_East",
+    "text": "Sales Summary for East Region\nTotal Records: 589\nTotal Sales: $320296.00\nAverage Sale: $543.80\nAverage Customer Satisfaction: 3.07\nDate Range: 2022-01-02 to 2028-11-02\n\nSales by Product:\n- Widget A: $89292.00 total, 168 sales, $531.50 average\n- Widget B: $88508.00 total, 154 sales, $574.73 average\n- Widget C: $71036.00 total, 130 sales, $546.43 average\n- Widget D: $71460.00 total, 137 sales, $521.61 average\n\nSales by Gender:\n- Female: $156003.00 total, 284 sales, $549.31 average\n- Male: $164293.00 total, 305 sales, $538.67 average\n",
+    "metadata": {
+      "type": "region",
+      "region": "East",
+      "raw_data": {
+        "level": "region",
+        "value": "East",
+        "total_records": 589,
+        "total_sales": 320296.0,
+        "average_sale": 543.7962648556876,
+        "average_satisfaction": 3.06615130793511,
+        "date_range": {
+          "start": "2022-01-02",
+          "end": "2028-11-02"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 89292,
+            "count": 168,
+            "mean": 531.5
+          },
+          "Widget B": {
+            "sum": 88508,
+            "count": 154,
+            "mean": 574.7272727272727
+          },
+          "Widget C": {
+            "sum": 71036,
+            "count": 130,
+            "mean": 546.4307692307692
+          },
+          "Widget D": {
+            "sum": 71460,
+            "count": 137,
+            "mean": 521.6058394160584
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 320296,
+            "count": 589,
+            "mean": 543.7962648556876
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 156003,
+            "count": 284,
+            "mean": 549.306338028169
+          },
+          "Male": {
+            "sum": 164293,
+            "count": 305,
+            "mean": 538.6655737704918
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/region_East.png"
+    }
+  },
+  {
+    "id": "region_North",
+    "text": "Sales Summary for North Region\nTotal Records: 639\nTotal Sales: $353025.00\nAverage Sale: $552.46\nAverage Customer Satisfaction: 3.04\nDate Range: 2022-01-03 to 2028-10-31\n\nSales by Product:\n- Widget A: $90965.00 total, 158 sales, $575.73 average\n- Widget B: $82632.00 total, 149 sales, $554.58 average\n- Widget C: $88701.00 total, 166 sales, $534.34 average\n- Widget D: $90727.00 total, 166 sales, $546.55 average\n\nSales by Gender:\n- Female: $198325.00 total, 354 sales, $560.24 average\n- Male: $154700.00 total, 285 sales, $542.81 average\n",
+    "metadata": {
+      "type": "region",
+      "region": "North",
+      "raw_data": {
+        "level": "region",
+        "value": "North",
+        "total_records": 639,
+        "total_sales": 353025.0,
+        "average_sale": 552.4647887323944,
+        "average_satisfaction": 3.0416510705093582,
+        "date_range": {
+          "start": "2022-01-03",
+          "end": "2028-10-31"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 90965,
+            "count": 158,
+            "mean": 575.7278481012659
+          },
+          "Widget B": {
+            "sum": 82632,
+            "count": 149,
+            "mean": 554.5771812080537
+          },
+          "Widget C": {
+            "sum": 88701,
+            "count": 166,
+            "mean": 534.343373493976
+          },
+          "Widget D": {
+            "sum": 90727,
+            "count": 166,
+            "mean": 546.5481927710844
+          }
+        },
+        "region_summary": {
+          "North": {
+            "sum": 353025,
+            "count": 639,
+            "mean": 552.4647887323944
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 198325,
+            "count": 354,
+            "mean": 560.2401129943503
+          },
+          "Male": {
+            "sum": 154700,
+            "count": 285,
+            "mean": 542.8070175438596
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/region_North.png"
+    }
+  },
+  {
+    "id": "region_West",
+    "text": "Sales Summary for West Region\nTotal Records: 644\nTotal Sales: $361383.00\nAverage Sale: $561.15\nAverage Customer Satisfaction: 2.96\nDate Range: 2022-01-09 to 2028-11-04\n\nSales by Product:\n- Widget A: $95375.00 total, 157 sales, $607.48 average\n- Widget B: $86509.00 total, 155 sales, $558.12 average\n- Widget C: $97332.00 total, 177 sales, $549.90 average\n- Widget D: $82167.00 total, 155 sales, $530.11 average\n\nSales by Gender:\n- Female: $177404.00 total, 315 sales, $563.19 average\n- Male: $183979.00 total, 329 sales, $559.21 average\n",
+    "metadata": {
+      "type": "region",
+      "region": "West",
+      "raw_data": {
+        "level": "region",
+        "value": "West",
+        "total_records": 644,
+        "total_sales": 361383.0,
+        "average_sale": 561.1537267080745,
+        "average_satisfaction": 2.9646008690745496,
+        "date_range": {
+          "start": "2022-01-09",
+          "end": "2028-11-04"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 95375,
+            "count": 157,
+            "mean": 607.484076433121
+          },
+          "Widget B": {
+            "sum": 86509,
+            "count": 155,
+            "mean": 558.1225806451613
+          },
+          "Widget C": {
+            "sum": 97332,
+            "count": 177,
+            "mean": 549.8983050847457
+          },
+          "Widget D": {
+            "sum": 82167,
+            "count": 155,
+            "mean": 530.1096774193549
+          }
+        },
+        "region_summary": {
+          "West": {
+            "sum": 361383,
+            "count": 644,
+            "mean": 561.1537267080745
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 177404,
+            "count": 315,
+            "mean": 563.1873015873016
+          },
+          "Male": {
+            "sum": 183979,
+            "count": 329,
+            "mean": 559.2066869300912
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/region_West.png"
+    }
+  },
+  {
+    "id": "age_group_26-35",
+    "text": "Sales Summary for Age Group 26-35\nTotal Records: 515\nTotal Sales: $284525.00\nAverage Sale: $552.48\nAverage Customer Satisfaction: 3.01\nDate Range: 2022-01-01 to 2028-11-04\n\nSales by Product:\n- Widget A: $74165.00 total, 134 sales, $553.47 average\n- Widget B: $59800.00 total, 107 sales, $558.88 average\n- Widget C: $73254.00 total, 132 sales, $554.95 average\n- Widget D: $77306.00 total, 142 sales, $544.41 average\n\nSales by Region:\n- East: $66604.00 total, 125 sales, $532.83 average\n- North: $87948.00 total, 158 sales, $556.63 average\n- South: $62955.00 total, 116 sales, $542.72 average\n- West: $67018.00 total, 116 sales, $577.74 average\n\nSales by Gender:\n- Female: $143913.00 total, 254 sales, $566.59 average\n- Male: $140612.00 total, 261 sales, $538.74 average\n",
+    "metadata": {
+      "type": "demographic",
+      "age_group": "26-35",
+      "raw_data": {
+        "level": "age_group",
+        "value": "26-35",
+        "total_records": 515,
+        "total_sales": 284525.0,
+        "average_sale": 552.4757281553398,
+        "average_satisfaction": 3.0118389833348966,
+        "date_range": {
+          "start": "2022-01-01",
+          "end": "2028-11-04"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 74165,
+            "count": 134,
+            "mean": 553.4701492537314
+          },
+          "Widget B": {
+            "sum": 59800,
+            "count": 107,
+            "mean": 558.8785046728972
+          },
+          "Widget C": {
+            "sum": 73254,
+            "count": 132,
+            "mean": 554.9545454545455
+          },
+          "Widget D": {
+            "sum": 77306,
+            "count": 142,
+            "mean": 544.4084507042254
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 66604,
+            "count": 125,
+            "mean": 532.832
+          },
+          "North": {
+            "sum": 87948,
+            "count": 158,
+            "mean": 556.632911392405
+          },
+          "South": {
+            "sum": 62955,
+            "count": 116,
+            "mean": 542.7155172413793
+          },
+          "West": {
+            "sum": 67018,
+            "count": 116,
+            "mean": 577.7413793103449
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 143913,
+            "count": 254,
+            "mean": 566.5866141732283
+          },
+          "Male": {
+            "sum": 140612,
+            "count": 261,
+            "mean": 538.7432950191571
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/age_group_26to35.png"
+    }
+  },
+  {
+    "id": "age_group_36-50",
+    "text": "Sales Summary for Age Group 36-50\nTotal Records: 726\nTotal Sales: $391884.00\nAverage Sale: $539.79\nAverage Customer Satisfaction: 2.99\nDate Range: 2022-01-03 to 2028-10-30\n\nSales by Product:\n- Widget A: $113537.00 total, 195 sales, $582.24 average\n- Widget B: $100035.00 total, 187 sales, $534.95 average\n- Widget C: $93909.00 total, 184 sales, $510.38 average\n- Widget D: $84403.00 total, 160 sales, $527.52 average\n\nSales by Region:\n- East: $87444.00 total, 158 sales, $553.44 average\n- North: $99467.00 total, 187 sales, $531.91 average\n- South: $106850.00 total, 197 sales, $542.39 average\n- West: $98123.00 total, 184 sales, $533.28 average\n\nSales by Gender:\n- Female: $198880.00 total, 363 sales, $547.88 average\n- Male: $193004.00 total, 363 sales, $531.69 average\n",
+    "metadata": {
+      "type": "demographic",
+      "age_group": "36-50",
+      "raw_data": {
+        "level": "age_group",
+        "value": "36-50",
+        "total_records": 726,
+        "total_sales": 391884.0,
+        "average_sale": 539.7851239669421,
+        "average_satisfaction": 2.986536636413786,
+        "date_range": {
+          "start": "2022-01-03",
+          "end": "2028-10-30"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 113537,
+            "count": 195,
+            "mean": 582.2410256410257
+          },
+          "Widget B": {
+            "sum": 100035,
+            "count": 187,
+            "mean": 534.9465240641712
+          },
+          "Widget C": {
+            "sum": 93909,
+            "count": 184,
+            "mean": 510.375
+          },
+          "Widget D": {
+            "sum": 84403,
+            "count": 160,
+            "mean": 527.51875
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 87444,
+            "count": 158,
+            "mean": 553.4430379746835
+          },
+          "North": {
+            "sum": 99467,
+            "count": 187,
+            "mean": 531.9090909090909
+          },
+          "South": {
+            "sum": 106850,
+            "count": 197,
+            "mean": 542.3857868020305
+          },
+          "West": {
+            "sum": 98123,
+            "count": 184,
+            "mean": 533.2771739130435
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 198880,
+            "count": 363,
+            "mean": 547.8787878787879
+          },
+          "Male": {
+            "sum": 193004,
+            "count": 363,
+            "mean": 531.6914600550964
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/age_group_36to50.png"
+    }
+  },
+  {
+    "id": "age_group_51-70",
+    "text": "Sales Summary for Age Group 51-70\nTotal Records: 892\nTotal Sales: $496781.00\nAverage Sale: $556.93\nAverage Customer Satisfaction: 3.07\nDate Range: 2022-01-07 to 2028-11-03\n\nSales by Product:\n- Widget A: $133620.00 total, 237 sales, $563.80 average\n- Widget B: $128588.00 total, 221 sales, $581.85 average\n- Widget C: $112689.00 total, 207 sales, $544.39 average\n- Widget D: $121884.00 total, 227 sales, $536.93 average\n\nSales by Region:\n- East: $111941.00 total, 209 sales, $535.60 average\n- North: $116335.00 total, 207 sales, $562.00 average\n- South: $126638.00 total, 224 sales, $565.35 average\n- West: $141867.00 total, 252 sales, $562.96 average\n\nSales by Gender:\n- Female: $254065.00 total, 450 sales, $564.59 average\n- Male: $242716.00 total, 442 sales, $549.13 average\n",
+    "metadata": {
+      "type": "demographic",
+      "age_group": "51-70",
+      "raw_data": {
+        "level": "age_group",
+        "value": "51-70",
+        "total_records": 892,
+        "total_sales": 496781.0,
+        "average_sale": 556.9293721973094,
+        "average_satisfaction": 3.0686693566364687,
+        "date_range": {
+          "start": "2022-01-07",
+          "end": "2028-11-03"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 133620,
+            "count": 237,
+            "mean": 563.7974683544304
+          },
+          "Widget B": {
+            "sum": 128588,
+            "count": 221,
+            "mean": 581.8461538461538
+          },
+          "Widget C": {
+            "sum": 112689,
+            "count": 207,
+            "mean": 544.3913043478261
+          },
+          "Widget D": {
+            "sum": 121884,
+            "count": 227,
+            "mean": 536.9339207048458
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 111941,
+            "count": 209,
+            "mean": 535.6028708133971
+          },
+          "North": {
+            "sum": 116335,
+            "count": 207,
+            "mean": 562.0048309178744
+          },
+          "South": {
+            "sum": 126638,
+            "count": 224,
+            "mean": 565.3482142857143
+          },
+          "West": {
+            "sum": 141867,
+            "count": 252,
+            "mean": 562.9642857142857
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 254065,
+            "count": 450,
+            "mean": 564.5888888888888
+          },
+          "Male": {
+            "sum": 242716,
+            "count": 442,
+            "mean": 549.131221719457
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/age_group_51to70.png"
+    }
+  },
+  {
+    "id": "age_group_18-25",
+    "text": "Sales Summary for Age Group 18-25\nTotal Records: 367\nTotal Sales: $210030.00\nAverage Sale: $572.29\nAverage Customer Satisfaction: 3.02\nDate Range: 2022-01-14 to 2028-11-02\n\nSales by Product:\n- Widget A: $53913.00 total, 90 sales, $599.03 average\n- Widget B: $57639.00 total, 97 sales, $594.22 average\n- Widget C: $55217.00 total, 97 sales, $569.25 average\n- Widget D: $43261.00 total, 83 sales, $521.22 average\n\nSales by Region:\n- East: $54307.00 total, 97 sales, $559.87 average\n- North: $49275.00 total, 87 sales, $566.38 average\n- South: $52073.00 total, 91 sales, $572.23 average\n- West: $54375.00 total, 92 sales, $591.03 average\n\nSales by Gender:\n- Female: $105193.00 total, 189 sales, $556.58 average\n- Male: $104837.00 total, 178 sales, $588.97 average\n",
+    "metadata": {
+      "type": "demographic",
+      "age_group": "18-25",
+      "raw_data": {
+        "level": "age_group",
+        "value": "18-25",
+        "total_records": 367,
+        "total_sales": 210030.0,
+        "average_sale": 572.2888283378746,
+        "average_satisfaction": 3.0193396648993054,
+        "date_range": {
+          "start": "2022-01-14",
+          "end": "2028-11-02"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 53913,
+            "count": 90,
+            "mean": 599.0333333333333
+          },
+          "Widget B": {
+            "sum": 57639,
+            "count": 97,
+            "mean": 594.2164948453608
+          },
+          "Widget C": {
+            "sum": 55217,
+            "count": 97,
+            "mean": 569.2474226804123
+          },
+          "Widget D": {
+            "sum": 43261,
+            "count": 83,
+            "mean": 521.2168674698795
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 54307,
+            "count": 97,
+            "mean": 559.8659793814433
+          },
+          "North": {
+            "sum": 49275,
+            "count": 87,
+            "mean": 566.3793103448276
+          },
+          "South": {
+            "sum": 52073,
+            "count": 91,
+            "mean": 572.2307692307693
+          },
+          "West": {
+            "sum": 54375,
+            "count": 92,
+            "mean": 591.0326086956521
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 105193,
+            "count": 189,
+            "mean": 556.5767195767196
+          },
+          "Male": {
+            "sum": 104837,
+            "count": 178,
+            "mean": 588.9719101123595
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/age_group_18to25.png"
+    }
+  },
+  {
+    "id": "overall_summary",
+    "text": "Overall Sales Summary\nTotal Records: 2500\nTotal Sales: $1383220.00\nAverage Sale: $553.29\nAverage Customer Satisfaction: 3.03\nDate Range: 2022-01-01 to 2028-11-04\n\nSales by Product:\n- Widget A: $375235.00 total, 656 sales, $572.00 average\n- Widget B: $346062.00 total, 612 sales, $565.46 average\n- Widget C: $335069.00 total, 620 sales, $540.43 average\n- Widget D: $326854.00 total, 612 sales, $534.08 average\n\nSales by Region:\n- East: $320296.00 total, 589 sales, $543.80 average\n- North: $353025.00 total, 639 sales, $552.46 average\n- South: $348516.00 total, 628 sales, $554.96 average\n- West: $361383.00 total, 644 sales, $561.15 average\n\nSales by Gender:\n- Female: $702051.00 total, 1256 sales, $558.96 average\n- Male: $681169.00 total, 1244 sales, $547.56 average\n",
+    "metadata": {
+      "type": "overall",
+      "raw_data": {
+        "level": "overall",
+        "value": "all_data",
+        "total_records": 2500,
+        "total_sales": 1383220.0,
+        "average_sale": 553.288,
+        "average_satisfaction": 3.0258693590366623,
+        "date_range": {
+          "start": "2022-01-01",
+          "end": "2028-11-04"
+        },
+        "product_summary": {
+          "Widget A": {
+            "sum": 375235,
+            "count": 656,
+            "mean": 572.0045731707318
+          },
+          "Widget B": {
+            "sum": 346062,
+            "count": 612,
+            "mean": 565.4607843137255
+          },
+          "Widget C": {
+            "sum": 335069,
+            "count": 620,
+            "mean": 540.4338709677419
+          },
+          "Widget D": {
+            "sum": 326854,
+            "count": 612,
+            "mean": 534.0751633986928
+          }
+        },
+        "region_summary": {
+          "East": {
+            "sum": 320296,
+            "count": 589,
+            "mean": 543.7962648556876
+          },
+          "North": {
+            "sum": 353025,
+            "count": 639,
+            "mean": 552.4647887323944
+          },
+          "South": {
+            "sum": 348516,
+            "count": 628,
+            "mean": 554.9617834394904
+          },
+          "West": {
+            "sum": 361383,
+            "count": 644,
+            "mean": 561.1537267080745
+          }
+        },
+        "gender_summary": {
+          "Female": {
+            "sum": 702051,
+            "count": 1256,
+            "mean": 558.9578025477707
+          },
+          "Male": {
+            "sum": 681169,
+            "count": 1244,
+            "mean": 547.5635048231511
+          }
+        }
+      },
+      "plot_path": "sales_data_statistics/plots/overall_summary.png"
+    }
+  }
+]

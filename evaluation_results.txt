@@ -1,0 +1,59 @@
+Example 1
+Question: Find total records and total sales for age group 18-25
+Ground Truth: Total records are 367 and for a total of 210030 dollars
+Generated: The total records and total sales for the age group 18-25 are as follows:
+
+- **Total Records:** 367
+- **Total Sales:** $210,030.00
+Evaluation: CORRECT
+------------------------------------------------------------
+Example 2
+Question: Find total records and total sales for 2022 Q1
+Ground Truth: Total records are 90 and for a total of 48268 dollars
+Generated: For 2022 Q1, the total records and total sales are as follows:
+
+- **Total Records:** 90
+- **Total Sales:** $48,268.00
+Evaluation: CORRECT
+------------------------------------------------------------
+Example 3
+Question: How did Widget A perform in 2022 Q2?
+Ground Truth: Widget A performed pretty well with total sales amounting to 14158 dollars and 23 recorded transactions
+Generated: In 2022 Q2, Widget A had the following performance metrics:
+
+- **Total Sales**: $14,158.00
+- **Total Sales Transactions**: 23 sales
+- **Average Sale Amount**: $615.57
+- **Average Customer Satisfaction**: 2.96
+
+This data indicates that while Widget A had a relatively high average sale amount compared to other products in the same quarter, the overall customer satisfaction was lower than the average for the entire sales summary.
+Evaluation: CORRECT
+------------------------------------------------------------
+Example 4
+Question: Can you find the Regional sales summary for 2024 Q3?
+Ground Truth: Here is your region summary for 2024 Q3. East: 13481; North: 12085; South: 12973; West: 9471
+Generated: The Regional sales summary for 2024 Q3 is as follows:
+
+- **East**: 
+  - Total Sales: $13,481.00 
+  - Total Sales Count: 28 
+  - Average Sale: $481.46 
+
+- **North**: 
+  - Total Sales: $12,085.00 
+  - Total Sales Count: 22 
+  - Average Sale: $549.32 
+
+- **South**: 
+  - Total Sales: $12,973.00 
+  - Total Sales Count: 23 
+  - Average Sale: $564.04 
+
+- **West**: 
+  - Total Sales: $9,471.00 
+  - Total Sales Count: 19 
+  - Average Sale: $498.47 
+
+If you need more information or details, feel free to ask!
+Evaluation: CORRECT
+------------------------------------------------------------ 
