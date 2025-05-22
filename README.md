@@ -106,8 +106,7 @@ The Streamlit UI allows you to:
 ├── evaluation.py          # Evaluate RAG system performance
 ├── Datasets/              # Sales data and evaluation datasets
 │   ├── sales_data.csv     # Raw sales data
-│   ├── evaluation_dataset.jsonl  # Test questions and answers
-│   └── PDF Folder/        # PDF documents
+│   └── evaluation_dataset.jsonl  # Test questions and answers
 ├── faiss_index/           # Vector database
 │   ├── index.faiss        # FAISS index
 │   └── index.pkl          # Index metadata
